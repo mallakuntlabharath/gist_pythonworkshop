@@ -1,2 +1,2 @@
 # gist_pythonworkshop
-this is python basic and advanced workshok
+this is python basic and advanced workshop
